@@ -1,0 +1,12 @@
+# 不传模型
+bert-base-uncased/
+saved_model/*
+
+# 不提供界面
+ui/
+gra_rc.py
+ui.py
+main.py
+
+
+IMDB影评.zip
